@@ -1,12 +1,13 @@
 # SR-FLIPFLOP-USING-CASE
-
+## NAME: DINESH RAGHAVENDARA S
+## REG NO:24900511
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
 
-Quartus prime
+
 
 **THEORY**
 
@@ -37,12 +38,14 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+![sr flipflop code](https://github.com/user-attachments/assets/3e203a0f-b0e4-4102-b267-cb0327b65eed)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+![sr flipflop diagram](https://github.com/user-attachments/assets/d23c8f2b-8c46-4abf-9703-ee48684ecd34)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![sr flipflop waveform](https://github.com/user-attachments/assets/5caf4835-994a-4205-ab93-eb68c8d9ce6a)
 
 **RESULTS**
