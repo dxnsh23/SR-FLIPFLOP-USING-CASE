@@ -1,4 +1,6 @@
-# SR-FLIPFLOP-USING-CASE
+# EXP6:SR-FLIPFLOP
+## NAME: DINESH RAGHAVENDARA S
+## REG NO: 24900081
 
 **AIM:**
 
@@ -37,12 +39,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+![sr flipflop code](https://github.com/user-attachments/assets/af943701-01d1-46df-b647-58a03cacae7f)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+![sr flipflop diagram](https://github.com/user-attachments/assets/9f0cc708-2912-4713-ba6e-87bc4a9432e9)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![sr flipflop waveform](https://github.com/user-attachments/assets/f0c0166c-5be6-48f6-b789-54202bae7ba9)
 
 **RESULTS**
